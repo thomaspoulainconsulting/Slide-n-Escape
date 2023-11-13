@@ -16,8 +16,9 @@ With retro graphics and solid gameplay, it will entertain you during your breaks
 - Publication : 05/2013
 - Language: Android Java
 - Distribution:
-  - Google Play Store: __213k__ downloads (banned)
-  - Amazon __20k__ downloads (https://www.amazon.fr/DonBarks-Sliden-Escape/dp/B00D3PWLVK)
+  - Google Play Store: __213k__ downloads
+  - Amazon __20k__ downloads
+- Link: https://www.amazon.fr/DonBarks-Sliden-Escape/dp/B00D3PWLVK
  
 ## Images
 ![image](https://github.com/thomaspoulainconsulting/Slide-n-Escape/assets/423951/c71b3f1a-b79a-441d-955c-590fdd2ee36a)

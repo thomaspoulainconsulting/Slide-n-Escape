@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <string name="app_id">906642082992</string>
+  <string name="achievement_finish_a_level_with_3_stars">CgkIsJnRwLEaEAIQAA</string>
+  <string name="achievement_finish_a_level_with_2_stars">CgkIsJnRwLEaEAIQAQ</string>
+  <string name="achievement_finish_a_level_with_1_star">CgkIsJnRwLEaEAIQAg</string>
+  <string name="achievement_world_1_finished">CgkIsJnRwLEaEAIQAw</string>
+  <string name="achievement_world_2_finished">CgkIsJnRwLEaEAIQBA</string>
+  <string name="achievement_world_3_finished">CgkIsJnRwLEaEAIQBQ</string>
+  <string name="achievement_world_4_finished">CgkIsJnRwLEaEAIQBg</string>
+  <string name="achievement_world_5_finished">CgkIsJnRwLEaEAIQBw</string>
+  <string name="achievement_world_6_finished">CgkIsJnRwLEaEAIQCA</string>
+  <string name="achievement_finish_all_worlds">CgkIsJnRwLEaEAIQCQ</string>
+  <string name="achievement_fall_in_a_hole">CgkIsJnRwLEaEAIQCw</string>
+  <string name="achievement_toast_by_the_lightning">CgkIsJnRwLEaEAIQDA</string>
+</resources>

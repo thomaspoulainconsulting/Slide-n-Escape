@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Yeti Surfing</string>
+    <string name="retry">Réessayer</string>
+    <string name="resume">Reprendre</string>
+    <string name="back">Retour</string>
+    <string name="next">Suivant</string>
+    <string name="play">Jouer</string>
+    <string name="feltinhole">Tu es tombé dans un trou !</string>
+    <string name="gameover">Perdu !</string>
+    <string name="world">Mondes</string>
+    <string name="option">Options</string>
+    <string name="sound">Musique</string>
+    <string name="vibration">Vibration</string>
+    <string name="tracklist">Tracklist</string>
+    <string name="confirmsuppress">Confirmer la suppression ?</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="suppressdata">Supprimer les données de jeu</string>
+    <string name="credit">Crédits</string>
+    <string name="levels">Niveaux</string>
+    <string name="touchedbyboss">Écrasé par une Pierre !</string>
+    <string name="touchedbyeclair">Touché par l\'éclair !</string>
+    <string name="creditdev">Code, Design &amp; Levels</string>
+    <string name="credit2">Credits</string>
+    <string name="graphics">Graphismes</string>
+    <string name="pause">Pause</string>
+    <string name="letsgo">C\'est parti !</string>
+    <string name="stats">Statistiques</string>
+    <string name="finished">Terminé</string>
+    <string name="findouttheexit">Rejoins la sortie !</string>
+    <string name="activeinterrupter">Active les interrupteurs</string>
+    <string name="bewareofrocks">Attention aux rochers !</string>
+    <string name="moveboxes">Bouge les caisses !</string>
+    <string name="withboxes">     avec les caisses</string>
+    <string name="useteleporter">Utilises les téléporteurs !</string>
+    <string name="avoidlightning">Évite les éclairs !</string>
+    <string name="moves">coups</string>
+    <string name="grid">Afficher la Grille</string>
+    <string name="stars">étoiles</string>
+    <string name="forthe">pour les</string>
+    <string name="worldlocked">Monde bloqué</string>
+    <string name="levellocked">Niveau bloqué</string>
+	<string name="store">Boutique</string>	
+	<string name="notenoughcredit">Pas assez de crédit !</string>
+	<string name="buyingalevelcredit">Aller dans la boutique pour</string>
+	<string name="buyingalevelcredit2">débloquer ce niveau ?</string>
+    <string name="unlockthislevel">Débloquer ce niveau ?</string>
+    <string name="unlockthisworld">Débloquer ce monde ?</string>
+    <string name="level_unlock">Débloque un niveau :</string>
+    <string name="world_unlock">Débloque un monde :</string>
+    <string name="ads_unlock">Pas de publicité :</string>
+    <string name="thanks">Merci !</string>
+    <string name="congratsremovingads">Il n\'y a plus de pub.</string>
+    <string name="congratsunlocking">Tu peux maintenant débloquer</string>
+	<string name="level">niveau</string>
+	<string name="world_singulier">monde</string>
+	<string name="later">Plus tard</string>
+	<string name="ratetheapp">Merci de noter ce jeu</string>
+	<string name="ratetheapp2">pour nous soutenir.</string>
+	<string name="buyingaworldcredit2">pour débloquer ce monde ?</string>
+	<string name="youalreadyboughit">Vous avez déjà acheté cet article</string>
+	
+</resources>

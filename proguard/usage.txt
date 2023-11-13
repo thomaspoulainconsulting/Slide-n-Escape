@@ -1,0 +1,782 @@
+android.support.v4.accessibilityservice.AccessibilityServiceInfoCompat
+android.support.v4.accessibilityservice.AccessibilityServiceInfoCompat$AccessibilityServiceInfoIcsImpl
+android.support.v4.accessibilityservice.AccessibilityServiceInfoCompat$AccessibilityServiceInfoStubImpl
+android.support.v4.accessibilityservice.AccessibilityServiceInfoCompat$AccessibilityServiceInfoVersionImpl
+android.support.v4.accessibilityservice.AccessibilityServiceInfoCompatIcs
+android.support.v4.app.ActivityCompat
+android.support.v4.app.ActivityCompatHoneycomb
+android.support.v4.app.BackStackRecord
+android.support.v4.app.BackStackRecord$Op
+android.support.v4.app.BackStackState
+android.support.v4.app.BackStackState$1
+android.support.v4.app.DialogFragment
+android.support.v4.app.Fragment
+android.support.v4.app.Fragment$1
+android.support.v4.app.Fragment$InstantiationException
+android.support.v4.app.Fragment$SavedState
+android.support.v4.app.Fragment$SavedState$1
+android.support.v4.app.FragmentActivity
+android.support.v4.app.FragmentActivity$1
+android.support.v4.app.FragmentActivity$2
+android.support.v4.app.FragmentActivity$FragmentTag
+android.support.v4.app.FragmentActivity$NonConfigurationInstances
+android.support.v4.app.FragmentContainer
+android.support.v4.app.FragmentManager
+android.support.v4.app.FragmentManager$BackStackEntry
+android.support.v4.app.FragmentManager$OnBackStackChangedListener
+android.support.v4.app.FragmentManagerImpl
+android.support.v4.app.FragmentManagerImpl$1
+android.support.v4.app.FragmentManagerImpl$2
+android.support.v4.app.FragmentManagerImpl$3
+android.support.v4.app.FragmentManagerImpl$4
+android.support.v4.app.FragmentManagerImpl$5
+android.support.v4.app.FragmentManagerState
+android.support.v4.app.FragmentManagerState$1
+android.support.v4.app.FragmentPagerAdapter
+android.support.v4.app.FragmentState
+android.support.v4.app.FragmentState$1
+android.support.v4.app.FragmentStatePagerAdapter
+android.support.v4.app.FragmentTabHost
+android.support.v4.app.FragmentTabHost$1
+android.support.v4.app.FragmentTabHost$DummyTabFactory
+android.support.v4.app.FragmentTabHost$SavedState
+android.support.v4.app.FragmentTabHost$SavedState$1
+android.support.v4.app.FragmentTabHost$TabInfo
+android.support.v4.app.FragmentTransaction
+android.support.v4.app.ListFragment
+android.support.v4.app.ListFragment$1
+android.support.v4.app.ListFragment$2
+android.support.v4.app.LoaderManager
+android.support.v4.app.LoaderManager$LoaderCallbacks
+android.support.v4.app.LoaderManagerImpl
+android.support.v4.app.LoaderManagerImpl$LoaderInfo
+android.support.v4.app.NavUtils
+android.support.v4.app.NavUtils$NavUtilsImpl
+android.support.v4.app.NavUtils$NavUtilsImplBase
+android.support.v4.app.NavUtils$NavUtilsImplJB
+android.support.v4.app.NavUtilsJB
+android.support.v4.app.NoSaveStateFrameLayout
+android.support.v4.app.NotificationCompat
+android.support.v4.app.NotificationCompat$Action
+android.support.v4.app.NotificationCompat$BigPictureStyle
+android.support.v4.app.NotificationCompat$BigTextStyle
+android.support.v4.app.NotificationCompat$Builder
+android.support.v4.app.NotificationCompat$InboxStyle
+android.support.v4.app.NotificationCompat$NotificationCompatImpl
+android.support.v4.app.NotificationCompat$NotificationCompatImplBase
+android.support.v4.app.NotificationCompat$NotificationCompatImplHoneycomb
+android.support.v4.app.NotificationCompat$NotificationCompatImplIceCreamSandwich
+android.support.v4.app.NotificationCompat$NotificationCompatImplJellybean
+android.support.v4.app.NotificationCompat$Style
+android.support.v4.app.NotificationCompatHoneycomb
+android.support.v4.app.NotificationCompatIceCreamSandwich
+android.support.v4.app.NotificationCompatJellybean
+android.support.v4.app.ServiceCompat
+android.support.v4.app.ShareCompat
+android.support.v4.app.ShareCompat$IntentBuilder
+android.support.v4.app.ShareCompat$IntentReader
+android.support.v4.app.ShareCompat$ShareCompatImpl
+android.support.v4.app.ShareCompat$ShareCompatImplBase
+android.support.v4.app.ShareCompat$ShareCompatImplICS
+android.support.v4.app.ShareCompat$ShareCompatImplJB
+android.support.v4.app.ShareCompatICS
+android.support.v4.app.ShareCompatJB
+android.support.v4.app.SuperNotCalledException
+android.support.v4.app.TaskStackBuilder
+android.support.v4.app.TaskStackBuilder$TaskStackBuilderImpl
+android.support.v4.app.TaskStackBuilder$TaskStackBuilderImplBase
+android.support.v4.app.TaskStackBuilder$TaskStackBuilderImplHoneycomb
+android.support.v4.app.TaskStackBuilder$TaskStackBuilderImplJellybean
+android.support.v4.app.TaskStackBuilderHoneycomb
+android.support.v4.app.TaskStackBuilderJellybean
+android.support.v4.content.AsyncTaskLoader
+android.support.v4.content.AsyncTaskLoader$LoadTask
+android.support.v4.content.ContextCompat
+android.support.v4.content.ContextCompatHoneycomb
+android.support.v4.content.ContextCompatJellybean
+android.support.v4.content.CursorLoader
+android.support.v4.content.IntentCompat
+android.support.v4.content.IntentCompat$IntentCompatImpl
+android.support.v4.content.IntentCompat$IntentCompatImplBase
+android.support.v4.content.IntentCompat$IntentCompatImplHC
+android.support.v4.content.IntentCompat$IntentCompatImplIcsMr1
+android.support.v4.content.IntentCompatHoneycomb
+android.support.v4.content.IntentCompatIcsMr1
+android.support.v4.content.Loader
+android.support.v4.content.Loader$ForceLoadContentObserver
+android.support.v4.content.Loader$OnLoadCompleteListener
+android.support.v4.content.LocalBroadcastManager
+android.support.v4.content.LocalBroadcastManager$1
+android.support.v4.content.LocalBroadcastManager$BroadcastRecord
+android.support.v4.content.LocalBroadcastManager$ReceiverRecord
+android.support.v4.content.ModernAsyncTask
+android.support.v4.content.ModernAsyncTask$1
+android.support.v4.content.ModernAsyncTask$2
+android.support.v4.content.ModernAsyncTask$3
+android.support.v4.content.ModernAsyncTask$4
+android.support.v4.content.ModernAsyncTask$AsyncTaskResult
+android.support.v4.content.ModernAsyncTask$InternalHandler
+android.support.v4.content.ModernAsyncTask$Status
+android.support.v4.content.ModernAsyncTask$WorkerRunnable
+android.support.v4.content.pm.ActivityInfoCompat
+android.support.v4.database.DatabaseUtilsCompat
+android.support.v4.net.ConnectivityManagerCompat
+android.support.v4.net.ConnectivityManagerCompat$BaseConnectivityManagerCompatImpl
+android.support.v4.net.ConnectivityManagerCompat$ConnectivityManagerCompatImpl
+android.support.v4.net.ConnectivityManagerCompat$GingerbreadConnectivityManagerCompatImpl
+android.support.v4.net.ConnectivityManagerCompat$HoneycombMR2ConnectivityManagerCompatImpl
+android.support.v4.net.ConnectivityManagerCompat$JellyBeanConnectivityManagerCompatImpl
+android.support.v4.net.ConnectivityManagerCompatGingerbread
+android.support.v4.net.ConnectivityManagerCompatHoneycombMR2
+android.support.v4.net.ConnectivityManagerCompatJellyBean
+android.support.v4.net.TrafficStatsCompat
+android.support.v4.net.TrafficStatsCompat$1
+android.support.v4.net.TrafficStatsCompat$BaseTrafficStatsCompatImpl
+android.support.v4.net.TrafficStatsCompat$BaseTrafficStatsCompatImpl$1
+android.support.v4.net.TrafficStatsCompat$BaseTrafficStatsCompatImpl$SocketTags
+android.support.v4.net.TrafficStatsCompat$IcsTrafficStatsCompatImpl
+android.support.v4.net.TrafficStatsCompat$TrafficStatsCompatImpl
+android.support.v4.net.TrafficStatsCompatIcs
+android.support.v4.os.ParcelableCompat
+android.support.v4.os.ParcelableCompat$CompatCreator
+android.support.v4.os.ParcelableCompatCreatorCallbacks
+android.support.v4.os.ParcelableCompatCreatorHoneycombMR2
+android.support.v4.os.ParcelableCompatCreatorHoneycombMR2Stub
+android.support.v4.util.AtomicFile
+android.support.v4.util.DebugUtils
+android.support.v4.util.LogWriter
+android.support.v4.util.LongSparseArray
+android.support.v4.util.LruCache
+android.support.v4.util.SparseArrayCompat
+android.support.v4.util.TimeUtils
+android.support.v4.view.AccessibilityDelegateCompat
+android.support.v4.view.AccessibilityDelegateCompat$AccessibilityDelegateIcsImpl
+android.support.v4.view.AccessibilityDelegateCompat$AccessibilityDelegateIcsImpl$1
+android.support.v4.view.AccessibilityDelegateCompat$AccessibilityDelegateImpl
+android.support.v4.view.AccessibilityDelegateCompat$AccessibilityDelegateJellyBeanImpl
+android.support.v4.view.AccessibilityDelegateCompat$AccessibilityDelegateJellyBeanImpl$1
+android.support.v4.view.AccessibilityDelegateCompat$AccessibilityDelegateStubImpl
+android.support.v4.view.AccessibilityDelegateCompatIcs
+android.support.v4.view.AccessibilityDelegateCompatIcs$1
+android.support.v4.view.AccessibilityDelegateCompatIcs$AccessibilityDelegateBridge
+android.support.v4.view.AccessibilityDelegateCompatJellyBean
+android.support.v4.view.AccessibilityDelegateCompatJellyBean$1
+android.support.v4.view.AccessibilityDelegateCompatJellyBean$AccessibilityDelegateBridgeJellyBean
+android.support.v4.view.GestureDetectorCompat
+android.support.v4.view.GestureDetectorCompat$GestureDetectorCompatImpl
+android.support.v4.view.GestureDetectorCompat$GestureDetectorCompatImplBase
+android.support.v4.view.GestureDetectorCompat$GestureDetectorCompatImplBase$GestureHandler
+android.support.v4.view.GestureDetectorCompat$GestureDetectorCompatImplJellybeanMr1
+android.support.v4.view.KeyEventCompat
+android.support.v4.view.KeyEventCompat$BaseKeyEventVersionImpl
+android.support.v4.view.KeyEventCompat$HoneycombKeyEventVersionImpl
+android.support.v4.view.KeyEventCompat$KeyEventVersionImpl
+android.support.v4.view.KeyEventCompatHoneycomb
+android.support.v4.view.MenuCompat
+android.support.v4.view.MenuCompat$BaseMenuVersionImpl
+android.support.v4.view.MenuCompat$HoneycombMenuVersionImpl
+android.support.v4.view.MenuCompat$MenuVersionImpl
+android.support.v4.view.MenuItemCompat
+android.support.v4.view.MenuItemCompat$BaseMenuVersionImpl
+android.support.v4.view.MenuItemCompat$HoneycombMenuVersionImpl
+android.support.v4.view.MenuItemCompat$MenuVersionImpl
+android.support.v4.view.MenuItemCompatHoneycomb
+android.support.v4.view.MotionEventCompat
+android.support.v4.view.MotionEventCompat$BaseMotionEventVersionImpl
+android.support.v4.view.MotionEventCompat$EclairMotionEventVersionImpl
+android.support.v4.view.MotionEventCompat$MotionEventVersionImpl
+android.support.v4.view.MotionEventCompatEclair
+android.support.v4.view.PagerAdapter
+android.support.v4.view.PagerTabStrip
+android.support.v4.view.PagerTabStrip$1
+android.support.v4.view.PagerTabStrip$2
+android.support.v4.view.PagerTitleStrip
+android.support.v4.view.PagerTitleStrip$1
+android.support.v4.view.PagerTitleStrip$PageListener
+android.support.v4.view.PagerTitleStrip$PagerTitleStripImpl
+android.support.v4.view.PagerTitleStrip$PagerTitleStripImplBase
+android.support.v4.view.PagerTitleStrip$PagerTitleStripImplIcs
+android.support.v4.view.PagerTitleStripIcs
+android.support.v4.view.PagerTitleStripIcs$SingleLineAllCapsTransform
+android.support.v4.view.VelocityTrackerCompat
+android.support.v4.view.VelocityTrackerCompat$BaseVelocityTrackerVersionImpl
+android.support.v4.view.VelocityTrackerCompat$HoneycombVelocityTrackerVersionImpl
+android.support.v4.view.VelocityTrackerCompat$VelocityTrackerVersionImpl
+android.support.v4.view.VelocityTrackerCompatHoneycomb
+android.support.v4.view.ViewCompat
+android.support.v4.view.ViewCompat$BaseViewCompatImpl
+android.support.v4.view.ViewCompat$GBViewCompatImpl
+android.support.v4.view.ViewCompat$HCViewCompatImpl
+android.support.v4.view.ViewCompat$ICSViewCompatImpl
+android.support.v4.view.ViewCompat$JBViewCompatImpl
+android.support.v4.view.ViewCompat$JbMr1ViewCompatImpl
+android.support.v4.view.ViewCompat$ViewCompatImpl
+android.support.v4.view.ViewCompatGingerbread
+android.support.v4.view.ViewCompatHC
+android.support.v4.view.ViewCompatICS
+android.support.v4.view.ViewCompatJB
+android.support.v4.view.ViewCompatJellybeanMr1
+android.support.v4.view.ViewConfigurationCompat
+android.support.v4.view.ViewConfigurationCompat$BaseViewConfigurationVersionImpl
+android.support.v4.view.ViewConfigurationCompat$FroyoViewConfigurationVersionImpl
+android.support.v4.view.ViewConfigurationCompat$ViewConfigurationVersionImpl
+android.support.v4.view.ViewConfigurationCompatFroyo
+android.support.v4.view.ViewGroupCompat
+android.support.v4.view.ViewGroupCompat$ViewGroupCompatIcsImpl
+android.support.v4.view.ViewGroupCompat$ViewGroupCompatImpl
+android.support.v4.view.ViewGroupCompat$ViewGroupCompatStubImpl
+android.support.v4.view.ViewGroupCompatIcs
+android.support.v4.view.ViewPager
+android.support.v4.view.ViewPager$1
+android.support.v4.view.ViewPager$2
+android.support.v4.view.ViewPager$3
+android.support.v4.view.ViewPager$Decor
+android.support.v4.view.ViewPager$ItemInfo
+android.support.v4.view.ViewPager$LayoutParams
+android.support.v4.view.ViewPager$MyAccessibilityDelegate
+android.support.v4.view.ViewPager$OnAdapterChangeListener
+android.support.v4.view.ViewPager$OnPageChangeListener
+android.support.v4.view.ViewPager$PageTransformer
+android.support.v4.view.ViewPager$PagerObserver
+android.support.v4.view.ViewPager$SavedState
+android.support.v4.view.ViewPager$SavedState$1
+android.support.v4.view.ViewPager$SimpleOnPageChangeListener
+android.support.v4.view.ViewPager$ViewPositionComparator
+android.support.v4.view.accessibility.AccessibilityEventCompat
+android.support.v4.view.accessibility.AccessibilityEventCompat$AccessibilityEventIcsImpl
+android.support.v4.view.accessibility.AccessibilityEventCompat$AccessibilityEventStubImpl
+android.support.v4.view.accessibility.AccessibilityEventCompat$AccessibilityEventVersionImpl
+android.support.v4.view.accessibility.AccessibilityEventCompatIcs
+android.support.v4.view.accessibility.AccessibilityManagerCompat
+android.support.v4.view.accessibility.AccessibilityManagerCompat$AccessibilityManagerIcsImpl
+android.support.v4.view.accessibility.AccessibilityManagerCompat$AccessibilityManagerIcsImpl$1
+android.support.v4.view.accessibility.AccessibilityManagerCompat$AccessibilityManagerStubImpl
+android.support.v4.view.accessibility.AccessibilityManagerCompat$AccessibilityManagerVersionImpl
+android.support.v4.view.accessibility.AccessibilityManagerCompat$AccessibilityStateChangeListenerCompat
+android.support.v4.view.accessibility.AccessibilityManagerCompatIcs
+android.support.v4.view.accessibility.AccessibilityManagerCompatIcs$1
+android.support.v4.view.accessibility.AccessibilityManagerCompatIcs$AccessibilityStateChangeListenerBridge
+android.support.v4.view.accessibility.AccessibilityNodeInfoCompat
+android.support.v4.view.accessibility.AccessibilityNodeInfoCompat$AccessibilityNodeInfoIcsImpl
+android.support.v4.view.accessibility.AccessibilityNodeInfoCompat$AccessibilityNodeInfoImpl
+android.support.v4.view.accessibility.AccessibilityNodeInfoCompat$AccessibilityNodeInfoJellybeanImpl
+android.support.v4.view.accessibility.AccessibilityNodeInfoCompat$AccessibilityNodeInfoStubImpl
+android.support.v4.view.accessibility.AccessibilityNodeInfoCompatIcs
+android.support.v4.view.accessibility.AccessibilityNodeInfoCompatJellyBean
+android.support.v4.view.accessibility.AccessibilityNodeProviderCompat
+android.support.v4.view.accessibility.AccessibilityNodeProviderCompat$AccessibilityNodeProviderImpl
+android.support.v4.view.accessibility.AccessibilityNodeProviderCompat$AccessibilityNodeProviderJellyBeanImpl
+android.support.v4.view.accessibility.AccessibilityNodeProviderCompat$AccessibilityNodeProviderJellyBeanImpl$1
+android.support.v4.view.accessibility.AccessibilityNodeProviderCompat$AccessibilityNodeProviderStubImpl
+android.support.v4.view.accessibility.AccessibilityNodeProviderCompatJellyBean
+android.support.v4.view.accessibility.AccessibilityNodeProviderCompatJellyBean$1
+android.support.v4.view.accessibility.AccessibilityNodeProviderCompatJellyBean$AccessibilityNodeInfoBridge
+android.support.v4.view.accessibility.AccessibilityRecordCompat
+android.support.v4.view.accessibility.AccessibilityRecordCompat$AccessibilityRecordIcsImpl
+android.support.v4.view.accessibility.AccessibilityRecordCompat$AccessibilityRecordIcsMr1Impl
+android.support.v4.view.accessibility.AccessibilityRecordCompat$AccessibilityRecordImpl
+android.support.v4.view.accessibility.AccessibilityRecordCompat$AccessibilityRecordJellyBeanImpl
+android.support.v4.view.accessibility.AccessibilityRecordCompat$AccessibilityRecordStubImpl
+android.support.v4.view.accessibility.AccessibilityRecordCompatIcs
+android.support.v4.view.accessibility.AccessibilityRecordCompatIcsMr1
+android.support.v4.view.accessibility.AccessibilityRecordCompatJellyBean
+android.support.v4.widget.CursorAdapter
+android.support.v4.widget.CursorAdapter$1
+android.support.v4.widget.CursorAdapter$ChangeObserver
+android.support.v4.widget.CursorAdapter$MyDataSetObserver
+android.support.v4.widget.CursorFilter
+android.support.v4.widget.CursorFilter$CursorFilterClient
+android.support.v4.widget.EdgeEffectCompat
+android.support.v4.widget.EdgeEffectCompat$BaseEdgeEffectImpl
+android.support.v4.widget.EdgeEffectCompat$EdgeEffectIcsImpl
+android.support.v4.widget.EdgeEffectCompat$EdgeEffectImpl
+android.support.v4.widget.EdgeEffectCompatIcs
+android.support.v4.widget.ResourceCursorAdapter
+android.support.v4.widget.ScrollerCompat
+android.support.v4.widget.ScrollerCompat$ScrollerCompatImplIcs
+android.support.v4.widget.ScrollerCompatIcs
+android.support.v4.widget.SearchViewCompat
+android.support.v4.widget.SearchViewCompat$OnQueryTextListenerCompat
+android.support.v4.widget.SearchViewCompat$SearchViewCompatHoneycombImpl
+android.support.v4.widget.SearchViewCompat$SearchViewCompatHoneycombImpl$1
+android.support.v4.widget.SearchViewCompat$SearchViewCompatImpl
+android.support.v4.widget.SearchViewCompat$SearchViewCompatStubImpl
+android.support.v4.widget.SearchViewCompatHoneycomb
+android.support.v4.widget.SearchViewCompatHoneycomb$1
+android.support.v4.widget.SearchViewCompatHoneycomb$OnQueryTextListenerCompatBridge
+android.support.v4.widget.SimpleCursorAdapter
+android.support.v4.widget.SimpleCursorAdapter$CursorToStringConverter
+android.support.v4.widget.SimpleCursorAdapter$ViewBinder
+com.google.ads.Ad:
+    public abstract boolean isReady()
+    public abstract void loadAd(com.google.ads.AdRequest)
+    public abstract void setAdListener(com.google.ads.AdListener)
+    public abstract void stopLoading()
+com.google.ads.AdActivity:
+    public static final java.lang.String BASE_URL_PARAM
+    public static final java.lang.String HTML_PARAM
+    public static final java.lang.String URL_PARAM
+    public static final java.lang.String CUSTOM_CLOSE_PARAM
+    public static final java.lang.String INTENT_ACTION_PARAM
+    public static final java.lang.String TYPE_PARAM
+    public static final java.lang.String COMPONENT_NAME_PARAM
+    public static final java.lang.String PACKAGE_NAME_PARAM
+    public static final java.lang.String INTENT_FLAGS_PARAM
+    public static final java.lang.String INTENT_EXTRAS_PARAM
+    public static final java.lang.String ORIENTATION_PARAM
+    313:335:public com.google.ads.internal.AdWebView getOpeningAdWebView()
+com.google.ads.AdRequest:
+    public static final java.lang.String VERSION
+    public static final java.lang.String LOGTAG
+    221:222:public com.google.ads.AdRequest setGender(com.google.ads.AdRequest$Gender)
+    230:230:public com.google.ads.AdRequest$Gender getGender()
+    243:255:public com.google.ads.AdRequest setBirthday(java.lang.String)
+    264:270:public com.google.ads.AdRequest setBirthday(java.util.Date)
+    280:286:public com.google.ads.AdRequest setBirthday(java.util.Calendar)
+    294:294:public java.util.Date getBirthday()
+    302:303:public com.google.ads.AdRequest clearBirthday()
+    320:321:public com.google.ads.AdRequest setPlusOneOptOut(boolean)
+    334:334:public boolean getPlusOneOptOut()
+    346:347:public com.google.ads.AdRequest setKeywords(java.util.Set)
+    360:365:public com.google.ads.AdRequest addKeyword(java.lang.String)
+    378:383:public com.google.ads.AdRequest addKeywords(java.util.Set)
+    394:398:public java.util.Set getKeywords()
+    408:412:private synchronized com.google.ads.mediation.admob.AdMobAdapterExtras a()
+    427:428:public com.google.ads.AdRequest setExtras(java.util.Map)
+    445:451:public com.google.ads.AdRequest addExtra(java.lang.String,java.lang.Object)
+    478:479:public com.google.ads.AdRequest removeNetworkExtras(java.lang.Class)
+    502:503:public com.google.ads.AdRequest setMediationExtras(java.util.Map)
+    517:522:public com.google.ads.AdRequest addMediationExtra(java.lang.String,java.lang.Object)
+    533:534:public com.google.ads.AdRequest setLocation(android.location.Location)
+    542:542:public android.location.Location getLocation()
+    557:558:public com.google.ads.AdRequest setTesting(boolean)
+    673:678:public com.google.ads.AdRequest addTestDevice(java.lang.String)
+    691:692:public com.google.ads.AdRequest setTestDevices(java.util.Set)
+com.google.ads.AdRequest$ErrorCode:
+    55:55:public static com.google.ads.AdRequest$ErrorCode[] values()
+    55:55:public static com.google.ads.AdRequest$ErrorCode valueOf(java.lang.String)
+com.google.ads.AdRequest$Gender:
+    105:105:public static com.google.ads.AdRequest$Gender[] values()
+    105:105:public static com.google.ads.AdRequest$Gender valueOf(java.lang.String)
+com.google.ads.AdSize:
+    public static final int FULL_WIDTH
+    public static final int AUTO_HEIGHT
+    public static final int LANDSCAPE_AD_HEIGHT
+    public static final int PORTRAIT_AD_HEIGHT
+    public static final int LARGE_AD_HEIGHT
+    291:291:public int getWidthInPixels(android.content.Context)
+    301:301:public int getHeightInPixels(android.content.Context)
+    317:317:public boolean isSizeAppropriate(int,int)
+    339:359:public varargs com.google.ads.AdSize findBestSize(com.google.ads.AdSize[])
+com.google.ads.AdView:
+    110:112:protected AdView(android.app.Activity,com.google.ads.AdSize[],java.lang.String)
+    123:126:public AdView(android.content.Context,android.util.AttributeSet)
+    139:140:public AdView(android.content.Context,android.util.AttributeSet,int)
+    280:317:com.google.ads.AdSize[] a(java.lang.String)
+    329:405:private void a(android.content.Context,android.util.AttributeSet)
+    409:436:private boolean a(java.lang.String,android.content.Context,android.util.AttributeSet,boolean)
+    441:470:private java.lang.String b(java.lang.String,android.content.Context,android.util.AttributeSet,boolean)
+    476:488:private java.util.Set c(java.lang.String,android.content.Context,android.util.AttributeSet,boolean)
+    492:492:private boolean a(java.lang.String,android.util.AttributeSet)
+    542:546:public boolean isReady()
+    593:594:protected void setAppEventListener(com.google.ads.AppEventListener)
+    600:601:protected void setSwipeableEventListener(com.google.ads.SwipeableAdListener)
+    607:615:protected varargs void setSupportedAdSizes(com.google.ads.AdSize[])
+    622:627:private varargs void a(com.google.ads.AdSize[])
+    651:654:public void stopLoading()
+com.google.ads.InterstitialAd:
+    private com.google.ads.internal.d a
+    82:83:public InterstitialAd(android.app.Activity,java.lang.String)
+    97:99:public InterstitialAd(android.app.Activity,java.lang.String,boolean)
+    108:108:public boolean isReady()
+    120:121:public void loadAd(com.google.ads.AdRequest)
+    130:131:public void show()
+    142:143:public void setAdListener(com.google.ads.AdListener)
+    151:152:protected void setAppEventListener(com.google.ads.AppEventListener)
+    161:162:public void stopLoading()
+com.google.ads.doubleclick.DfpAdView:
+    27:28:public DfpAdView(android.app.Activity,com.google.ads.AdSize,java.lang.String)
+    38:39:public DfpAdView(android.app.Activity,com.google.ads.AdSize[],java.lang.String)
+    48:49:public DfpAdView(android.content.Context,android.util.AttributeSet)
+    59:60:public DfpAdView(android.content.Context,android.util.AttributeSet,int)
+    67:68:public void setAppEventListener(com.google.ads.AppEventListener)
+    76:77:public varargs void setSupportedAdSizes(com.google.ads.AdSize[])
+    85:86:public void enableManualImpressions(boolean)
+    92:93:public void recordImpression()
+    101:103:public void resize(com.google.ads.AdSize)
+com.google.ads.doubleclick.DfpExtras:
+    25:30:public DfpExtras(com.google.ads.doubleclick.DfpExtras)
+    46:47:public com.google.ads.doubleclick.DfpExtras setPublisherProvidedId(java.lang.String)
+    55:56:public com.google.ads.doubleclick.DfpExtras setPlusOneOptOut(boolean)
+    61:62:public com.google.ads.doubleclick.DfpExtras setUseExactAdSize(boolean)
+    67:68:public com.google.ads.doubleclick.DfpExtras setExtras(java.util.Map)
+    79:80:public com.google.ads.doubleclick.DfpExtras addExtra(java.lang.String,java.lang.Object)
+    12:12:public bridge synthetic com.google.ads.mediation.admob.AdMobAdapterExtras addExtra(java.lang.String,java.lang.Object)
+    12:12:public bridge synthetic com.google.ads.mediation.admob.AdMobAdapterExtras setExtras(java.util.Map)
+    12:12:public bridge synthetic com.google.ads.mediation.admob.AdMobAdapterExtras setUseExactAdSize(boolean)
+    12:12:public bridge synthetic com.google.ads.mediation.admob.AdMobAdapterExtras setPlusOneOptOut(boolean)
+com.google.ads.doubleclick.DfpInterstitialAd
+com.google.ads.doubleclick.SwipeableDfpAdView:
+    22:23:public SwipeableDfpAdView(android.app.Activity,com.google.ads.AdSize,java.lang.String)
+    31:32:public SwipeableDfpAdView(android.content.Context,android.util.AttributeSet)
+    38:39:public SwipeableDfpAdView(android.content.Context,android.util.AttributeSet,int)
+    46:47:public void setSwipeableEventListener(com.google.ads.SwipeableAdListener)
+    56:62:public void resize(com.google.ads.AdSize)
+com.google.ads.e:
+    213:219:private boolean a(com.google.ads.h,java.lang.String)
+    225:235:public void a(com.google.ads.h,boolean)
+    240:256:public void a(com.google.ads.h,android.view.View)
+    260:269:public void a(com.google.ads.h)
+    273:282:public void b(com.google.ads.h)
+    286:295:public void c(com.google.ads.h)
+    306:315:public boolean c()
+    489:491:private com.google.ads.h e()
+    52:52:static synthetic com.google.ads.h c(com.google.ads.e)
+com.google.ads.e$2
+com.google.ads.e$3
+com.google.ads.e$4
+com.google.ads.e$5
+com.google.ads.e$6
+com.google.ads.f:
+    79:79:public java.util.List e()
+com.google.ads.g$a:
+    17:17:public static com.google.ads.g$a[] values()
+    17:17:public static com.google.ads.g$a valueOf(java.lang.String)
+com.google.ads.h:
+    116:116:public com.google.ads.f a()
+    211:237:public synchronized void g()
+    265:265:synchronized com.google.ads.mediation.MediationAdapter i()
+    272:272:com.google.ads.e j()
+    276:277:synchronized void a(android.view.View)
+com.google.ads.h$2
+com.google.ads.internal.b:
+    23:26:public b(java.lang.String,boolean)
+    36:39:public b(java.lang.String,boolean,java.lang.Throwable)
+    47:47:public void b(java.lang.String)
+com.google.ads.internal.c$d:
+    222:222:public static com.google.ads.internal.c$d valueOf(java.lang.String)
+com.google.ads.internal.d:
+    549:549:public synchronized boolean s()
+    718:721:public synchronized void a(com.google.ads.f,boolean)
+    845:862:private void b(com.google.ads.f,java.lang.Boolean)
+    942:954:public synchronized void z()
+    1073:1100:public synchronized void B()
+com.google.ads.j:
+    private boolean b
+    34:66:public void onReceivedAd(com.google.ads.mediation.MediationBannerAdapter)
+    72:87:public void onFailedToReceiveAd(com.google.ads.mediation.MediationBannerAdapter,com.google.ads.AdRequest$ErrorCode)
+    92:95:public void onPresentScreen(com.google.ads.mediation.MediationBannerAdapter)
+    99:102:public void onDismissScreen(com.google.ads.mediation.MediationBannerAdapter)
+    106:109:public void onLeaveApplication(com.google.ads.mediation.MediationBannerAdapter)
+    113:117:public void onClick(com.google.ads.mediation.MediationBannerAdapter)
+com.google.ads.k:
+    29:40:public void onReceivedAd(com.google.ads.mediation.MediationInterstitialAdapter)
+    45:61:public void onFailedToReceiveAd(com.google.ads.mediation.MediationInterstitialAdapter,com.google.ads.AdRequest$ErrorCode)
+    66:69:public void onPresentScreen(com.google.ads.mediation.MediationInterstitialAdapter)
+    74:77:public void onDismissScreen(com.google.ads.mediation.MediationInterstitialAdapter)
+    81:84:public void onLeaveApplication(com.google.ads.mediation.MediationInterstitialAdapter)
+com.google.ads.mediation.EmptyNetworkExtras
+com.google.ads.mediation.MediationAdRequest:
+    50:50:public com.google.ads.AdRequest$Gender getGender()
+    57:57:public java.util.Date getBirthday()
+    67:81:public java.lang.Integer getAgeInYears()
+    88:92:public java.util.Set getKeywords()
+    100:104:public android.location.Location getLocation()
+    114:114:public boolean isTesting()
+com.google.ads.mediation.MediationBannerAdapter:
+    public abstract android.view.View getBannerView()
+com.google.ads.mediation.MediationBannerListener:
+    public abstract void onReceivedAd(com.google.ads.mediation.MediationBannerAdapter)
+    public abstract void onFailedToReceiveAd(com.google.ads.mediation.MediationBannerAdapter,com.google.ads.AdRequest$ErrorCode)
+    public abstract void onPresentScreen(com.google.ads.mediation.MediationBannerAdapter)
+    public abstract void onDismissScreen(com.google.ads.mediation.MediationBannerAdapter)
+    public abstract void onLeaveApplication(com.google.ads.mediation.MediationBannerAdapter)
+    public abstract void onClick(com.google.ads.mediation.MediationBannerAdapter)
+com.google.ads.mediation.MediationInterstitialAdapter:
+    public abstract void showInterstitial()
+com.google.ads.mediation.MediationInterstitialListener:
+    public abstract void onReceivedAd(com.google.ads.mediation.MediationInterstitialAdapter)
+    public abstract void onFailedToReceiveAd(com.google.ads.mediation.MediationInterstitialAdapter,com.google.ads.AdRequest$ErrorCode)
+    public abstract void onPresentScreen(com.google.ads.mediation.MediationInterstitialAdapter)
+    public abstract void onDismissScreen(com.google.ads.mediation.MediationInterstitialAdapter)
+    public abstract void onLeaveApplication(com.google.ads.mediation.MediationInterstitialAdapter)
+com.google.ads.mediation.admob.AdMobAdapter
+com.google.ads.mediation.admob.AdMobAdapter$1
+com.google.ads.mediation.admob.AdMobAdapter$a
+com.google.ads.mediation.admob.AdMobAdapter$b
+com.google.ads.mediation.admob.AdMobAdapterExtras:
+    31:37:public AdMobAdapterExtras(com.google.ads.mediation.admob.AdMobAdapterExtras)
+    44:44:public com.google.ads.mediation.admob.AdMobAdapterExtras setPlusOneOptOut(boolean)
+    52:52:public boolean getPlusOneOptOut()
+    69:70:public com.google.ads.mediation.admob.AdMobAdapterExtras setUseExactAdSize(boolean)
+    79:79:public boolean getUseExactAdSize()
+    102:106:public com.google.ads.mediation.admob.AdMobAdapterExtras setExtras(java.util.Map)
+    128:129:public com.google.ads.mediation.admob.AdMobAdapterExtras addExtra(java.lang.String,java.lang.Object)
+com.google.ads.mediation.admob.AdMobAdapterServerParameters
+com.google.ads.mediation.customevent.CustomEvent
+com.google.ads.mediation.customevent.CustomEventAdapter
+com.google.ads.mediation.customevent.CustomEventAdapter$a
+com.google.ads.mediation.customevent.CustomEventAdapter$b
+com.google.ads.mediation.customevent.CustomEventBanner
+com.google.ads.mediation.customevent.CustomEventBannerListener
+com.google.ads.mediation.customevent.CustomEventExtras
+com.google.ads.mediation.customevent.CustomEventInterstitial
+com.google.ads.mediation.customevent.CustomEventInterstitialListener
+com.google.ads.mediation.customevent.CustomEventListener
+com.google.ads.mediation.customevent.CustomEventServerParameters
+com.google.ads.searchads.SearchAdRequest:
+    91:92:public void setQuery(java.lang.String)
+    101:108:public void setBackgroundColor(int)
+    120:127:public void setBackgroundGradient(int,int)
+    137:138:public void setHeaderTextColor(int)
+    148:149:public void setDescriptionTextColor(int)
+    159:160:public void setAnchorTextColor(int)
+    168:169:public void setFontFace(java.lang.String)
+    178:179:public void setHeaderTextSize(int)
+    189:190:public void setBorderColor(int)
+    197:198:public void setBorderType(com.google.ads.searchads.SearchAdRequest$BorderType)
+    207:208:public void setBorderThickness(int)
+    215:216:public void setCustomChannels(java.lang.String)
+com.google.ads.searchads.SearchAdRequest$BorderType:
+    22:22:public static com.google.ads.searchads.SearchAdRequest$BorderType[] values()
+    22:22:public static com.google.ads.searchads.SearchAdRequest$BorderType valueOf(java.lang.String)
+com.google.ads.util.AdUtil$a:
+    107:107:public static com.google.ads.util.AdUtil$a[] values()
+    107:107:public static com.google.ads.util.AdUtil$a valueOf(java.lang.String)
+com.google.ads.util.a:
+    37:38:public static void a(boolean)
+    53:55:public static void a(java.lang.Object)
+com.google.ads.util.b$a:
+    39:39:public static com.google.ads.util.b$a[] values()
+    39:39:public static com.google.ads.util.b$a valueOf(java.lang.String)
+com.kilobolt.framework.Audio:
+    public abstract com.kilobolt.framework.Sound createSound(java.lang.String)
+com.kilobolt.framework.FileIO:
+    public abstract java.io.InputStream readFile(java.lang.String)
+    public abstract java.io.OutputStream writeFile(java.lang.String)
+    public abstract java.io.InputStream readAsset(java.lang.String)
+    public abstract android.content.SharedPreferences getSharedPref()
+com.kilobolt.framework.Game:
+    public abstract com.kilobolt.framework.Audio getAudio()
+    public abstract com.kilobolt.framework.FileIO getFileIO()
+    public abstract com.kilobolt.framework.Screen getCurrentScreen()
+    public abstract android.app.Activity getActivity()
+com.kilobolt.framework.Graphics:
+    public abstract void clearScreen(int)
+    public abstract void drawString(java.lang.String,int,int,android.graphics.Paint)
+    public abstract int getWidth()
+    public abstract int getHeight()
+    public abstract void drawCircle(int,int,int,android.graphics.Paint)
+com.kilobolt.framework.Graphics$ImageFormat:
+    1:1:public static com.kilobolt.framework.Graphics$ImageFormat[] values()
+    1:1:public static com.kilobolt.framework.Graphics$ImageFormat valueOf(java.lang.String)
+com.kilobolt.framework.Image:
+    public abstract int getWidth()
+    public abstract int getHeight()
+    public abstract com.kilobolt.framework.Graphics$ImageFormat getFormat()
+    public abstract void dispose()
+com.kilobolt.framework.Input:
+    public abstract boolean isTouchDown(int)
+    public abstract int getTouchX(int)
+    public abstract int getTouchY(int)
+com.kilobolt.framework.Input$TouchEvent:
+    public static final int TOUCH_DOWN
+    public static final int TOUCH_UP
+    public static final int TOUCH_DRAGGED
+    public static final int TOUCH_HOLD
+com.kilobolt.framework.LeaderBoard
+com.kilobolt.framework.Music:
+    public abstract void setVolume(float)
+    public abstract boolean isStopped()
+    public abstract boolean isLooping()
+    public abstract void dispose()
+    public abstract void seekBegin()
+com.kilobolt.framework.Particle
+com.kilobolt.framework.ParticleObject
+com.kilobolt.framework.Sound
+com.kilobolt.framework.implementation.AndroidAudio:
+    38:42:public com.kilobolt.framework.Sound createSound(java.lang.String)
+com.kilobolt.framework.implementation.AndroidFileIO:
+    31:31:public java.io.InputStream readAsset(java.lang.String)
+    36:36:public java.io.InputStream readFile(java.lang.String)
+    41:41:public java.io.OutputStream writeFile(java.lang.String)
+    45:45:public android.content.SharedPreferences getSharedPref()
+com.kilobolt.framework.implementation.AndroidGame:
+    137:137:public android.app.Activity getActivity()
+    147:147:public com.kilobolt.framework.FileIO getFileIO()
+com.kilobolt.framework.implementation.AndroidGraphics:
+    84:86:public void clearScreen(int)
+    110:113:public void drawString(java.lang.String,int,int,android.graphics.Paint)
+    148:163:public void drawScaledImage(com.kilobolt.framework.Image,int,int,int,int,int,int,int,int)
+    176:176:public int getWidth()
+    181:181:public int getHeight()
+    186:187:public void drawCircle(int,int,int,android.graphics.Paint)
+com.kilobolt.framework.implementation.AndroidImage:
+    19:19:public int getWidth()
+    24:24:public int getHeight()
+    29:29:public com.kilobolt.framework.Graphics$ImageFormat getFormat()
+    34:35:public void dispose()
+com.kilobolt.framework.implementation.AndroidInput:
+    24:24:public boolean isTouchDown(int)
+    29:29:public int getTouchX(int)
+    34:34:public int getTouchY(int)
+com.kilobolt.framework.implementation.AndroidLeaderBoard
+com.kilobolt.framework.implementation.AndroidMusic:
+    39:43:public void dispose()
+    47:47:public boolean isLooping()
+    57:57:public boolean isStopped()
+    93:94:public void setVolume(float)
+    115:117:public void seekBegin()
+com.kilobolt.framework.implementation.AndroidParticle
+com.kilobolt.framework.implementation.AndroidSound
+com.kilobolt.framework.implementation.MultiTouchHandler:
+    private static final int MAX_TOUCHPOINTS
+    103:103:public boolean isTouchDown(int)
+    114:114:public int getTouchX(int)
+    125:125:public int getTouchY(int)
+    149:154:private int getIndex(int)
+com.kilobolt.framework.implementation.SingleTouchHandler:
+    67:67:public boolean isTouchDown(int)
+    77:77:public int getTouchX(int)
+    84:84:public int getTouchY(int)
+com.kilobolt.framework.implementation.TouchHandler:
+    public abstract boolean isTouchDown(int)
+    public abstract int getTouchX(int)
+    public abstract int getTouchY(int)
+com.kilobolt.icescape.Assets:
+    10:10:public Assets()
+    54:56:public static void playMusic(com.kilobolt.icescape.GameManager)
+com.kilobolt.icescape.Boss:
+    java.util.Date date
+com.kilobolt.icescape.BuildConfig
+com.kilobolt.icescape.Credit:
+    com.kilobolt.framework.Image likeEN
+    com.kilobolt.framework.Image likeFR
+com.kilobolt.icescape.GameScreen:
+    long tempsEnd
+    704:704:public java.util.ArrayList getTiles()
+com.kilobolt.icescape.GameScreen$GameState:
+    1:1:public static com.kilobolt.icescape.GameScreen$GameState[] values()
+    1:1:public static com.kilobolt.icescape.GameScreen$GameState valueOf(java.lang.String)
+com.kilobolt.icescape.LoadingScreen:
+    com.kilobolt.framework.Image giftiz
+com.kilobolt.icescape.Map:
+    251:258:public int[] getBossPosition()
+    443:469:public boolean isCollisionCaisse(int,int,int)
+com.kilobolt.icescape.R
+com.kilobolt.icescape.R$anim
+com.kilobolt.icescape.R$attr
+com.kilobolt.icescape.R$drawable
+com.kilobolt.icescape.R$id
+com.kilobolt.icescape.R$layout
+com.kilobolt.icescape.R$raw
+com.kilobolt.icescape.R$string
+com.kilobolt.icescape.R$style
+com.kilobolt.icescape.Tile:
+    83:84:public void setTileX(int)
+    91:92:public void setTileY(int)
+com.purplebrain.giftiz.sdk.GiftizButtonView:
+    public GiftizButtonView(android.content.Context,android.util.AttributeSet)
+    private void buttonClickedWithAnimation(android.content.Context,android.view.View)
+    static boolean buttonClickedWithoutAnimation(android.app.Activity)
+    private static void actionsBeforeAnimation(android.content.Context)
+    private static boolean buttonClicked(android.content.Context)
+    static void setDelegate(com.purplebrain.giftiz.sdk.GiftizSDK$Inner$ButtonNeedsUpdateDelegate)
+    static synthetic void access$000(com.purplebrain.giftiz.sdk.GiftizButtonView,android.content.Context,android.view.View)
+    static synthetic boolean access$100(android.content.Context)
+com.purplebrain.giftiz.sdk.GiftizButtonView$1
+com.purplebrain.giftiz.sdk.GiftizButtonView$2
+com.purplebrain.giftiz.sdk.GiftizButtonView$3
+com.purplebrain.giftiz.sdk.GiftizSDK:
+    private static final long MIN_EXIT_TIME_BEFORE_NEW_TOAST
+    public GiftizSDK()
+    public static void missionComplete(android.app.Activity)
+    private static boolean canDoMissionCompleteRequest(android.content.Context)
+    public static void inAppPurchase(android.app.Activity,float)
+    private static boolean canDoInAppPurchaseRequest(android.content.Context)
+com.purplebrain.giftiz.sdk.GiftizSDK$Ad
+com.purplebrain.giftiz.sdk.GiftizSDK$Inner:
+    public GiftizSDK$Inner()
+    public static void buttonClicked(android.app.Activity)
+    public static void setButtonNeedsUpdateDelegate(com.purplebrain.giftiz.sdk.GiftizSDK$Inner$ButtonNeedsUpdateDelegate)
+    static void setShouldDisplayGiftizBannerDelegate(com.purplebrain.giftiz.sdk.GiftizSDK$Inner$ShouldDisplayGiftizBannerDelegate)
+    public static com.purplebrain.giftiz.sdk.GiftizSDK$Inner$GiftizButtonStatus getButtonStatus(android.app.Activity)
+com.purplebrain.giftiz.sdk.GiftizSDK$Inner$1
+com.purplebrain.giftiz.sdk.GiftizSDK$Inner$GiftizButtonStatus
+com.purplebrain.giftiz.sdk.GiftizWebViewActivity
+com.purplebrain.giftiz.sdk.GiftizWebViewActivity$1
+com.purplebrain.giftiz.sdk.GiftizWebViewActivity$2
+com.purplebrain.giftiz.sdk.GiftizWebViewActivity$3
+com.purplebrain.giftiz.sdk.GiftizWebViewActivity$4
+com.purplebrain.giftiz.sdk.GiftizWebViewActivity$5
+com.purplebrain.giftiz.sdk.library.R
+com.purplebrain.giftiz.sdk.library.R$anim
+com.purplebrain.giftiz.sdk.library.R$drawable
+com.purplebrain.giftiz.sdk.library.R$id
+com.purplebrain.giftiz.sdk.library.R$layout
+com.purplebrain.giftiz.sdk.library.R$raw
+com.purplebrain.giftiz.sdk.library.R$string
+com.purplebrain.giftiz.sdk.request.GDKDownloadGiftizClicRequest
+com.purplebrain.giftiz.sdk.request.GDKGenericRequest:
+    private static final int TIME_OUT
+    public static final int HTTP_OK
+    public static final int HTTP_BAD_REQUEST
+    public static final int HTTP_FORBIDDEN
+    public static final int HTTP_SERVER_SERROR
+    protected java.net.HttpURLConnection createDeleteConnection(java.net.URL)
+    protected java.net.HttpURLConnection createPutConnection(java.net.URL,java.lang.String)
+    protected java.net.HttpURLConnection createPostConnection(java.net.URL,java.lang.String)
+    protected void addContentToConnection(java.net.HttpURLConnection,java.lang.String)
+    protected java.lang.String getResponseAsString(java.net.HttpURLConnection)
+    protected java.io.InputStream getUnzippedInputStream(java.net.HttpURLConnection)
+com.purplebrain.giftiz.sdk.request.GDKInAppPurchaseRequest
+com.purplebrain.giftiz.sdk.request.GDKNetworkException:
+    private static final long serialVersionUID
+com.purplebrain.giftiz.sdk.util.GDKAndroidVersionHelper:
+    public GDKAndroidVersionHelper()
+com.purplebrain.giftiz.sdk.util.GDKAndroidVersionHelper$HelperInternal:
+    private GDKAndroidVersionHelper$HelperInternal()
+com.purplebrain.giftiz.sdk.util.GDKDeviceUuidHelper:
+    private static final java.lang.String BROKEN_ANDROID_ID
+    public GDKDeviceUuidHelper()
+com.purplebrain.giftiz.sdk.util.GDKId:
+    public GDKId()
+    public static int getRaw(java.lang.String,android.content.Context)
+com.purplebrain.giftiz.sdk.util.GDKInstallHelper:
+    public GDKInstallHelper()
+com.purplebrain.giftiz.sdk.util.GDKLog:
+    private static final java.lang.String SHOW_GIFTIZ_LOG
+    public GDKLog()
+com.purplebrain.giftiz.sdk.util.GDKOfflineHelper:
+    private static final java.lang.String GIFTIZ_SDK_OFFLINE
+    public GDKOfflineHelper()
+com.purplebrain.giftiz.sdk.util.GDKPreferencesUtil:
+    private static final java.lang.String GIFTIZ_SDK_PARAMETERS
+    private static final java.lang.String GIFTIZ_SDK_STATE
+    private static final java.lang.String GIFTIZ_PARTNER_KEY
+    private static final java.lang.String HIDE_GIFTIZ_BADGE_AT_LAUNCH
+    private static final java.lang.String TEST_PARTNER_KEY
+    private static final java.lang.String GIFTIZ_PKG
+    public GDKPreferencesUtil()
+    public static boolean isMissionCompleteRequestActive(android.content.Context)
+    public static boolean isInAppPurchaseRequestActive(android.content.Context)
+    public static void hasClickedGiftizLogo(android.content.Context)
+    public static void didFinishedMission(android.content.Context)
+    public static boolean hasFinishedMission(android.content.Context)
+    public static java.lang.String getTryNowUrl(android.content.Context)
+com.purplebrain.giftiz.sdk.util.GDKSoundMgr
+com.purplebrain.giftiz.sdk.util.GDKStreamUtil:
+    public GDKStreamUtil()
+    public static int copyStream(java.io.InputStream,java.io.OutputStream)
+com.purplebrain.giftiz.sdk.util.GDKToastHelper:
+    private static final int TOAST_DISPLAY_TIME
+    public GDKToastHelper()
+    public static void displayMissionComplete(android.app.Activity)
+    public static void setDelegate(com.purplebrain.giftiz.sdk.GiftizSDK$Inner$ShouldDisplayGiftizBannerDelegate)
+com.purplebrain.giftiz.sdk.util.GDKURLUtil:
+    private static final java.lang.String SERVER_URL
+    public GDKURLUtil()
+    public static java.lang.String getInAppPurchaseResource()
+    public static java.lang.String getDownloadGiftizClicRessource()
+    public static java.lang.String getUserKnownWebPage(android.app.Activity)
+    public static java.lang.String getUserUnknownWebPage(android.app.Activity)
